@@ -1,2 +1,3 @@
-# C-programs
-A collection of C language programs I made either for school or for fun
+# School-Programs
+A collection of programs I made during my schooling carrer
+Languages include C, Assembly, and Python
